@@ -1,0 +1,419 @@
+
+<html>
+<head>
+  <title>Julio M Alegria</title>
+
+  <meta charset="utf-8">
+  <!-- Always force latest IE rendering engine & Chrome Frame -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta http-equiv="content-language" content="en-us">
+  <meta name="description" content="Personal website of Julio M. Alegria.">
+  <meta name="keywords" content="julio, manuel, alegria, software, developer, programmer, python">
+  <meta name="author" content="www.juliomalegria.com">
+  <meta http-equiv="cleartype" content="on">
+
+  <link rel="icon" href="/static/img/paper-plane.png" type="image/x-icon">
+  <link rel="shortcut icon" href="/static/img/paper-plane.png" type="image/x-icon">
+
+  <!-- Responsive and mobile friendly stuff -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="/static/css/font-awesome.min.css" media="all">
+  <link rel="stylesheet" href="/static/css/custom.css" media="all">
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-57837503-1', 'auto'); ga('send', 'pageview');
+  </script>
+</head>
+<body>
+
+  <a href="/me" class="corner-link">english?&nbsp;</a>
+  <a href="https://drive.google.com/file/d/0B8qXYwpx3_8FblRUbTBiNERYalk/view?usp=sharing" target="_blank" class="corner-link corner-link-second">ver PDF <i class="fa fa-file-pdf-o"></i></a>
+  
+
+  <h1 class="title">JULIO MANUEL ALEGRIA</h1>
+
+  <img src="/static/img/me.png" height="100" width="100" class="photo"/>
+
+  <div class="info">
+    <span class="info-item">
+      <i class="fa fa-envelope-o"></i>
+      <a href="mailto:juliomalegria@gmail.com">
+        juliomalegria@gmail.com
+      </a>
+    </span>
+    <span class="info-item">
+      <i class="fa fa-map-marker"></i> Nómada
+    </span>
+    <span class="info-item">
+      <i class="fa fa-globe"></i>
+      <a href="/">
+        juliomalegria.com
+      </a>
+    </span>
+    <br/>
+    <span class="info-item">
+      <i class="fa fa-linkedin-square"></i>
+      <a href="https://linkedin.com/in/juliomalegria" target="_blank">
+        linkedin
+      </a>
+    </span>
+    <span class="info-item">
+      <i class="fa fa-github"></i>
+      <a href="https://github.com/juliomalegria" target="_blank">
+        github
+      </a>
+    </span>
+    <span class="info-item">
+      <i class="fa fa-stack-overflow"></i>
+      <a href="http://stackoverflow.com/users/972208/juliomalegria" target="_blank">
+        stackoverflow
+      </a>
+    </span>
+  </div>
+
+  <div class="zen">
+    <div class="zen-code">
+      <span></span><img src="/static/img/cursor.gif" class="cursor" />
+    </div>
+    <div class="zen-quote">
+      &#8212; The Zen of Python, by Tim Peters
+    </div>
+  </div>
+
+  <div style="clear:both"></div>
+
+  <h3 class="section-name" id="experience">
+    <i class="fa fa-suitcase"></i> EXPERIENCIA PROFESIONAL
+    <a href="#experience"><i class="fa fa-link" id="experience-link"></i></a>
+  </h3>
+
+  <table class="section-table">
+    <tr>
+      <td>
+        <p>marzo 2019 - actualmente</p>
+        <p>(11 meses y 12 días)</p>
+      </td>
+      <td>
+        <p>
+	  Tiempo sabático: viajando por el mundo <i class="fa fa-globe"></i>, y
+	</p>
+        <p>
+	  Creador de <a href="https://youcanaffordtotravel.com"  target="_blank">You Can Afford To Travel</a>.
+	</p>
+	<p><i class="fa fa-map-marker"></i> Nómada</p>
+        <ul>
+          <li>
+	    Manteniéndome entretenido haciendo lo que amo más: programar y
+	    viajar.
+          </li>
+	  <li>
+	    Página web dedicada a "budget traveling", publicando gastos
+	    diarios.
+	  </li>
+	  <li>
+	    Usando DigitalOcean, Dokku, Python, Django Framework, Leaflet,
+	    PostgreSQL, Instagram API, jQuery, CSS, entre otros.
+	  </li>
+	</ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>noviembre 2017 - febrero 2019</p>
+        <p>(1 año, 4 meses)</p>
+      </td>
+      <td>
+        <p>Software Engineer en <a href="https://www.youtube.com" target="_blank">YouTube</a>.</p>
+        <p><i class="fa fa-map-marker"></i> París, Francia</p>
+        <ul>
+          <li>
+            Parte del equipo de Search and Discovery.
+          </li>
+          <li>
+	    Trabajé en una plataforma de Machine Learning que simplificaba el
+	    proceso de entrenamiento, hosting, y manejo de modelos de
+	    clasificación usados por diferentes equipos de YouTube sobre todo
+	    el Corpus de YouTube.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>octubre 2015 - octubre 2017</p>
+        <p>(2 años)</p>
+      </td>
+      <td>
+        <p>Site Reliability Engineer (SRE) en <a href="https://www.google.com" target="_blank">Google</a>.</p>
+        <p><i class="fa fa-map-marker"></i> San Francisco, CA</p>
+        <ul>
+          <li>
+            Parte del equipo de Ads Serving SRE.
+          </li>
+          <li>
+	    Encargado del releasing, troubleshooting, aseguramiento de
+	    escalabilidad, y manejo de incidentes para diversion servicios de
+	    Ads, que recibian millones de QPS.
+          </li>
+          <li>
+	    Formé parte de la rotación de guardia, con un tiempo de respuesta
+	    de 5 minutos, cuidando servicios corriendo en miltiples datacenters,
+	    mateniendo SLOs de 99.9%.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>mayo 2013 - octubre 2015</p>
+        <p>(2 años y 5 meses)</p>
+      </td>
+      <td>
+        <p>Backend Engineer en <a href="https://amigocloud.com" target="_blank">AmigoCloud</a>.</p>
+        <p><i class="fa fa-map-marker"></i> San Francisco, CA</p>
+        <ul>
+          <li>
+            Diseñé e implementé la API web RESTful, usando Python,
+            Django Framework, PostgreSQL + PostGIS, Celery, RabbitMQ, Redis,
+	    entre otros.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>mayo 2011 - abril 2013</p>
+        <p>(2 años)</p>
+      </td>
+      <td>
+        <p>Software Engineer en <a href="http://inka-labs.com" target="_blank">Inka-Labs</a>.</p>
+        <p><i class="fa fa-map-marker"></i> Arequipa, Perú</p>
+        <ul>
+          <li>
+            Implementé varios proyectos usando Python, Django Framework, MySQL,
+            jQuery, AJAX, entre otros.
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+
+  <h3 class="section-name" id="skills">
+    <i class="fa fa-keyboard-o"></i> CONOCIMIENTOS COMPUTACIONALES
+    <a href="#skills"><i class="fa fa-link" id="skills-link"></i></a>
+  </h3>
+
+  <p>&nbsp;&nbsp; En order de experiencia:</p>
+
+  <table class="section-table">
+    <tr>
+      <td>sistemas operativos</td>
+      <td>Linux y otros UN*X, Windows.</td>
+    </tr>
+    <tr>
+      <td>programación</td>
+      <td>Python, C++, C, Javascript, Go, Java, Haskell, ...</td>
+    </tr>
+    <tr>
+      <td>bases de datos</td>
+      <td>PostgreSQL, MySQL, Oracle, Redis, MongoDB.</td>
+    </tr>
+    <tr>
+      <td>web</td>
+      <td>
+	Django Framework, jQuery, nginx, REST, OAuth2, AJAX, JSON, HTML,
+	CSS, ...
+      </td>
+    </tr>
+    <tr>
+      <td>otros</td>
+      <td>Git, Docker, Celery, RabbitMQ, PostGIS, GDAL, Emacs, LaTeX.</td>
+    </tr>
+  </table>
+
+  <h3 class="section-name" id="education">
+    <i class="fa fa-graduation-cap"></i> EDUCACIÓN
+    <a href="#education"><i class="fa fa-link" id="education-link"></i></a>
+  </h3>
+
+  <table class="section-table">
+    <tr>
+      <td>
+        marzo 2009 - diciembre 2013
+      </td>
+      <td>
+        <p>Bachiller en Ciencia de la Computación, <a href="http://ucsp.edu.pe" target="_blank">Universidad Cat&oacute;lica San Pablo (UCSP)</a>.</p>
+        <p><i class="fa fa-map-marker"></i> Arequipa - Perú.</p>
+      </td>
+    </tr>
+  </table>
+
+  <h3 class="section-name" id="projects">
+    <i class="fa fa-file-code-o"></i> PROYECTOS
+    <a href="#projects"><i class="fa fa-link" id="projects-link"></i></a>
+  </h3>
+
+  <table class="section-table">
+    <tr>
+      <td>2019</td>
+      <td>
+        <p>Página web: <a href="https://youcanaffordtotravel.com" target="_blank"> You Can Afford To Travel</a>, dedicada a "budget traveling".</p>
+      </td>
+    </tr>
+    <tr>
+      <td>2015</td>
+      <td>
+        <p>Proyecto open source: <a href="https://github.com/juliomalegria/python-craigslist" target="_blank"> <i class="fa fa-github"></i> python-craigslist</a>.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>2014</td>
+      <td>
+        <p>Proyecto open source: <a href="https://github.com/juliomalegria/django-chunked-upload" target="_blank"> <i class="fa fa-github"></i> django-chunked-upload</a>.</p>
+      </td>
+    </tr>
+  </table>
+
+  <h3 class="section-name" id="achievements">
+    <i class="fa fa-certificate"></i> LOGROS ACADÉMICOS
+    <a href="#achievements"><i class="fa fa-link" id="achievements-link"></i></a>
+  </h3>
+
+  <table class="section-table">
+    <tr>
+      <td>abril 2014</td>
+      <td>1er Puesto en Ciencia de la Computación, promoción 2009.</td>
+    </tr>
+  </table>
+
+  <h3 class="section-name" id="activities">
+    <i class="fa fa-group"></i> ACTIVIDADES ACADÉMICAS
+    <a href="#activities"><i class="fa fa-link" id="activities-link"></i></a>
+  </h3>
+
+  <table class="section-table">
+    <tr>
+      <td>marzo 2012 - diciembre 2013</td>
+      <td>
+        <p>Asistente de cátedra, Ciencia de la Computación, UCSP.</p>
+        <p><em>Introducción a la Programación</em> (1er Semestre), enseñando Python como primer lenguaje de programación (4 horas por semana).</p>
+      </td>
+    </tr>
+    <tr>
+      <td>2010 - 2013</td>
+      <td>
+        <p>Miembro del equipo ACM-ICPC de la Universidad.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>febrero 2013</td>
+      <td>
+        <p>Campamento de Programación en <a href="http://www.unicamp.br" target="_blank">UNICAMP</a>.</p>
+        <p><i class="fa fa-map-marker"></i> Campinas SP, Brasil</p>
+      </td>
+    </tr>
+    <tr>
+      <td>noviembre 2012</td>
+      <td>
+        <p>Django, Taller Introductorio - Expositor .</p>
+      </td>
+    </tr>
+    <tr>
+      <td>agosto 2012 - diciembre 2012</td>
+      <td>
+        <p>Asistente de cátedra, Ciencia de la Computación, UCSP.</p>
+        <p><em>Introducción a la Programación Orientada a Objetos</em> (2do Semestre), enseñando C++ y el paradigma OO (2 horas por semana).</p>
+      </td>
+    </tr>
+    <tr>
+      <td>diciembre 2011</td>
+      <td>
+        <p>Python, Taller Introductorio - Expositor.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>2009 - 2010</td>
+      <td>
+        <p>Miembro del equipo de Robótica de la Universidad.</p>
+      </td>
+    </tr>
+  </table>
+
+  <h3 class="section-name" id="languages">
+    <i class="fa fa-language"></i> IDIOMAS
+    <a href="#languages"><i class="fa fa-link" id="languages-link"></i></a>
+  </h3>
+
+  <table class="section-table">
+    <tr>
+      <td>español</td>
+      <td>Lenguaje materno.</td>
+    </tr>
+    <tr>
+      <td>inglés</td>
+      <td>Fluido.</td>
+    </tr>
+    <tr>
+      <td>francés</td>
+      <td>Avanzado.</td>
+    </tr>
+    <tr>
+      <td>holandés</td>
+      <td>Intermedio.</td>
+    </tr>
+    <tr>
+      <td>portugués</td>
+      <td>Intermedio.</td>
+    </tr>
+  </table>
+
+  <h3 class="section-name" id="interests">
+    <i class="fa fa-cube"></i> INTERESES
+    <a href="#interests"><i class="fa fa-link" id="interests-link"></i></a>
+  </h3>
+
+  <table class="section-table">
+    <tr>
+      <td>idiomas</td>
+      <td>Me encanta aprender y practicar nuevos idiomas.</td>
+    </tr>
+    <tr>
+      <td>viajar</td>
+      <td>Viajar abre tu mente a nuevas culturas, realidades, personas, etc.</td>
+    </tr>
+    <tr>
+      <td>cubo rubik</td>
+      <td>Estoy tratando de reducir mi tiempo de solución a menos de un minuto (aún sin suerte).</td>
+    </tr>
+  </table>
+
+  <div class="footer">
+    <span class="footer-item">
+      <i class="fa fa-copyright"></i> 2019 Julio Manuel Alegria.
+    </span>
+    <span class="footer-item">Todos los derechos reservados.</span>
+  </div>
+
+  <script src="/static/js/jquery.js"></script>
+  <script src="/static/js/typed.js"></script>
+  <script type="text/javascript">
+  /* Add links to sections */
+  $(".section-name").mouseover(function() {
+    $("a", this).show();
+  });
+  $(".section-name").mouseout(function() {
+    $("a", this).hide();
+  });
+  // typed.js
+  $(".zen-code span").typed({
+    showCursor: false,
+    typeSpeed: 20,
+    strings: ["Simple is better than complex.<br> ^500 " +
+              "Complex is better than complicated."]
+  });
+  </script>
+</body>
+</html>
